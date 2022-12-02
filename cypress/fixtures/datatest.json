@@ -1,0 +1,142 @@
+{
+
+    "signup": {
+        "email": "admin@bravve.com",
+        "password": "W@lmart10"
+    },
+    "signup2": {
+        "email": "userbravve@bravve.com.br",
+        "password": "Password01@"
+    },
+    "signupinv": {
+        "email": "userbravve@bravve.com.br",
+        "password": "Password1@"
+    },
+    "username": {
+        "name": "Rafael Santos"
+    },
+    "comporate_name": {
+        "name": "Hall of Jewels LTDA"
+    },
+    "generalinfo": {
+          "Name": "Teste Rafa",
+          "cnpj": "01764114000170",
+          "partnername": "Maria Santos Silvia",
+          "partnernumber":"119218992244",
+          "corporateemail": "rmontos164442@gmail.com",
+          
+          "financialname": "Roselita Mendes Guedes",
+          "responsibility": "Analista Financeira",
+          "financialemail": "financial@quality.com",
+          "financialnumber": "11955544444",
+
+          "banking": "itau",
+          "agency": "9294",
+          "account": "747838",
+
+          "contactname": "Gustavo Riberiro Neto",
+          "contactposition": "Analista Backoffice",
+          "contactemail": "backoffice@quality.com",
+          "contactnumber": "11958446655"
+          
+    },
+    "localinfo":{
+        "localname": "Royale Café",
+        "cnpj": "10253209000110",
+        "privaterooms": "3",
+        "meetingrooms": "3",
+        "workstation": "9",
+
+        "cep": "05410030",
+        "street": "R. Galeno de Almeida",
+        "localnumber": "188",
+        "complement":  "Ao Lado do Starbucks",
+        "district": "Pinheiros",
+        "latitude": "-23.5527355",
+        "longitude": "-46.6776633",
+
+        "communityname": "Alexandre Lima Pereira",
+        "communityemail": "community@quality.com",
+        "communitynumber": "11936953930",
+        "commercialname": "John Ricardo Junior",
+        "commercialemail": "comercial@quality.com",
+        "commercialnumber": "11936953935"
+
+    },
+    "spacesinfo":{
+        "spacename": "Quality Café",
+        "slogan": "Melhor Internet é aqui!",
+        "spacedescription": "Espaço planejado para fornecer a melhor recepção",
+        "capacity": "30",
+        "footage": "60",
+
+        "pricehour": "1000",
+        "priceday": "5000",
+        "pricemonth": "",
+
+        "passhour": "200",
+        "passday": "1000",
+        "passmonth": "",
+        "remunerationhour": "200",
+        "remunerationday": "1000",
+        "remunerationmonth": "",
+
+        "spacepictures": "areaspace1.jpg",
+        "spacepictures2": "areaspace2.png"
+
+
+
+
+
+
+            
+    },
+    "corpinfo":{
+        "corpename": "Quality Assurance",
+        "cnpj": "31.439.588/0001-08",
+        
+        "cep": "01311-000",
+        "localnumer": "456",
+
+        "admname": "Paulo Augusto Junior",
+        "admnumber": "11904285666", 
+        "admemail": "pauloquality13@adm.com",
+
+        "financialname": "Kleber Santana Souza",
+        "financialrole": "Administrador Financeiro",
+        "financialemail": "kleber@financeiro.com",
+        "financialnumber": "11945778822",
+
+        "bank": "Itau",
+        "agencynumber":"0494",
+        "accountnumber": "182828-2",
+
+        "infoname": "Carla Dias Moreira",
+        "inforole": "Atendimento Publico",
+        "infoemail": "carla@info.com",
+        "infonumber": "11944478822"
+
+
+
+
+    },
+    "newslatter":{
+        "name": "rafael moreira"
+    },
+    "paycredits":{
+        "corporatename": "Bravve Equip"
+
+
+    },
+    "voucher":{
+        "value": "10",
+        "inicialdate":"2022-11-21",
+        "enddate":"2022-11-30",
+        "search":"TESTEQA2022",
+        "socialname":"hall of je"
+
+
+
+    }
+
+}

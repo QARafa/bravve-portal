@@ -1,0 +1,15 @@
+{
+  "name": "bravveportal",
+  "version": "1.0.0",
+  "description": "Projeto de Testes Portal Corporativo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Rafael Moreira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
