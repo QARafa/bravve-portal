@@ -1,16 +1,16 @@
 {
 
     "signup": {
-        "email": "admin@bravve.com",
-        "password": "W@lmart10"
+        "email": "",
+        "password": ""
     },
     "signup2": {
-        "email": "userbravve@bravve.com.br",
-        "password": "Password01@"
+        "email": "",
+        "password": ""
     },
     "signupinv": {
-        "email": "userbravve@bravve.com.br",
-        "password": "Password1@"
+        "email": "",
+        "password": ""
     },
     "username": {
         "name": "Rafael Santos"
