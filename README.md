@@ -6,7 +6,7 @@ Repositório tem como função armazenar o Projeto em Cypress dos Testes Regress
 
 **Descrição:**
 
-* [Acesso ao Portal](https://portal-dev.dev.bravve.app/login)
+* [Acesso ao Portal]()
 * [Documentaçao do Cypress](https://on.cypress.io)
 * Versão Cypress: 9.7.0
 * Linguagem: JavaScript
